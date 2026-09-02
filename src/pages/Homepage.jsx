@@ -31,7 +31,7 @@ const Homepage = () => {
       label: t("buyOrSell"),
       path: "/market",
       color: "var(--soil-brown)"
-    }
+    },
   ];
 
   return (
